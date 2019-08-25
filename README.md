@@ -1,6 +1,6 @@
 # Results
 
-<sub>
+    
 Bike Combination 'Trek Fuel EX 9.8' was found in 4633 family garages.
 Bike Combination 'Émonda SLR 9' was found in 1015 family garages.
 Bike Combination 'Boone 7' was found in 958 family garages.
@@ -21,4 +21,4 @@ Bike Combination 'Fuel EX 9' was found in 95 family garages.
 Bike Combination 'Verve 3' was found in 79 family garages.
 Bike Combination 'Superfly 20, Trek Fuel EX 9.8' was found in 67 family garages.
 Bike Combination 'CrossRip 3, Trek Fuel EX 9.8' was found in 60 family garages.
-  </sub>
+    
