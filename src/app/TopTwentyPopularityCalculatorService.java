@@ -13,7 +13,7 @@ public class TopTwentyPopularityCalculatorService implements IPopularityCalculat
 
     public TopTwentyPopularityCalculatorService(){
         dataService = new DataAccessFromUrlService();
-        settingsService = new SettingsService();
+        settingsService = new HardcodedSettingsService();
     }
 
     public void calculate(){

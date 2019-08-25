@@ -12,7 +12,7 @@ public class DataAccessFromUrlService implements IDataAccessService
     private ISettingsService settings;
 
     public DataAccessFromUrlService() {
-        settings = new SettingsService();
+        settings = new HardcodedSettingsService();
     }
 
     public List<Garage> getGarageData() {
